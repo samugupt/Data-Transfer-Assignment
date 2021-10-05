@@ -25,12 +25,12 @@
 
 2. Second result shows the first 20 bytes sent along with the percentage progress completed
 
-![result_2](Images/result_1.PNG)
+![result_2](Images/result_2.PNG)
 
 3. Third result shows the next 20 bytes sent along with the percentage progress completed.
 
-![result_3](Images/result_1.PNG)
+![result_3](Images/result_3.PNG)
 
 4. Final result shows the last 20 bytes sent along with the percentage progress completed
 
-![result_4](Images/result_1.PNG)
+![result_4](Images/result_4.PNG)

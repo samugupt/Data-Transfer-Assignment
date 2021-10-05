@@ -19,4 +19,4 @@
 
 ### Results
 
-![result_1](Images/result_1.png)
+![result_1](Images/result_1.PNG)

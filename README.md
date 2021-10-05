@@ -17,6 +17,10 @@
 3. Then I convert each character from its binary format to character format.
 4. Using a pointer to a character array, I store all these characters to form a complete string (20 byte long).
 
+#### Digital Transfer Protocol
+
+In case if we use the I2C protocol, we first send the 8-bit device address that includes the read/write bit. For write operations, the bit is set to 0 while for read operations, the bit is set to 1.
+
 ### Results
 
 1. First result shows the input string

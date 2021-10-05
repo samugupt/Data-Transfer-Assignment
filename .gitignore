@@ -1,0 +1,6 @@
+# stm32 data transfer assignment
+# 1. stm32f74 Data Tx Rx Assignment
+/src/Data_Tx_Rx_Assignment/*
+!/src/Data_Tx_Rx_Assignment/Core/
+/src/Data_Tx_Rx_Assignment/Core/Startup/
+!/src/Data_Tx_Rx_Assignment/*.ioc

@@ -21,6 +21,22 @@
 
 In case if we use the I2C protocol, we first send the 8-bit device address that includes the read/write bit. For write operations, the bit is set to 0 while for read operations, the bit is set to 1.
 
+I2C Write
+
+1. The write operation is a single step process where device address in write mode is sent.
+
+2. Then the memory location address along with the data to be written to that location.
+
+![i2c_write]()
+
+I2C Read
+
+1. The read operation is a two step process where first the device address in write mode is sent along with the memory location address to read from.
+
+2. Then the device address is sent in read mode along with the number of bytes to receive from the device/slave.
+
+![i2c_read]()
+
 ### Results
 
 1. First result shows the input string

@@ -27,7 +27,7 @@ I2C Write
 
 2. Then the memory location address along with the data to be written to that location.
 
-![i2c_write]()
+![i2c_write](i2c_write.JPG)
 
 I2C Read
 
@@ -35,7 +35,7 @@ I2C Read
 
 2. Then the device address is sent in read mode along with the number of bytes to receive from the device/slave.
 
-![i2c_read]()
+![i2c_read](i2c_read.JPG)
 
 ### Results
 
